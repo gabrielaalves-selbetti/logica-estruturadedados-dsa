@@ -23,7 +23,6 @@ def jogo(jogada1, jogada2):
         resultado = "Jogador 1 venceu."
     else:
         resultado = "Jogador 2 venceu" 
-
     return resultado
 
 
